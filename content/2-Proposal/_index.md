@@ -48,7 +48,7 @@ The platform utilizes a modular AWS Serverless design with AI enrichment and dyn
 | Map & Location        | Amazon Location Service       |
 | Recommendation Engine | Amazon Bedrock + Lambda Logic |
 
-![FindNest Architecture](/images/2-Proposal/AWSProject.drawio.png)
+![FindNest Architecture](/images/2-Proposal/diagram.png)
 
 ### AWS Services Used
 

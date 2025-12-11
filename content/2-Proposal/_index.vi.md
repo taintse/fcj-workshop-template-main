@@ -48,7 +48,7 @@ Nền tảng sử dụng thiết kế AWS Serverless module với làm phong ph�
 | Map & Location        | Amazon Location Service       |
 | Recommendation Engine | Amazon Bedrock + Lambda Logic |
 
-![Kiến Trúc FindNest](/images/2-Proposal/AWSProject.drawio.png)
+![Kiến Trúc FindNest](/images/2-Proposal/diagram.png)
 
 ### Dịch vụ AWS sử dụng
 
